@@ -1,0 +1,5 @@
+c:\users\ri_fan\documents\visual studio 2015\Projects\Singleton_Design\Singleton_Design\bin\Debug\Singleton_Design.exe.config
+C:\Users\RI_FAN\Documents\Visual Studio 2015\Projects\Singleton_Design\Singleton_Design\bin\Debug\Singleton_Design.exe
+C:\Users\RI_FAN\Documents\Visual Studio 2015\Projects\Singleton_Design\Singleton_Design\bin\Debug\Singleton_Design.pdb
+C:\Users\RI_FAN\Documents\Visual Studio 2015\Projects\Singleton_Design\Singleton_Design\obj\Debug\Singleton_Design.exe
+C:\Users\RI_FAN\Documents\Visual Studio 2015\Projects\Singleton_Design\Singleton_Design\obj\Debug\Singleton_Design.pdb
